@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use JCF-DM, please cite the accompanying paper."
+title: "JCF-DM: Joint Conditional Flow with Distribution Matching"
+type: software
+authors:
+  - family-names: Li
+    given-names: Yanran
+  - family-names: Cai
+    given-names: Zexi
+repository-code: "https://github.com/Lyric98/JCF-DM"
+version: 1.0.0
+date-released: 2026-07-15
+preferred-citation:
+  type: conference-paper
+  title: "A Deep Generative Framework for Right-Censored Survival Data with Distribution-Matching Regularization"
+  authors:
+    - family-names: Li
+      given-names: Yanran
+    - family-names: Cai
+      given-names: Zexi
+  year: 2026
+  collection-title: "Proceedings of STAI-X 2026"

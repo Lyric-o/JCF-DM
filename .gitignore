@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.mplconfig/
+.DS_Store
+
+# Generated experiment artifacts
+outputs/*
+!outputs/.gitkeep
+*.out
+
+# Data are acquired separately; SEER must never be committed.
+data/*.csv
+data/*.parquet
+data/*.feather
+!data/README.md
